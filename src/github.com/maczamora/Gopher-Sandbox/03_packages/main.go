@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
-	"github.com/maczamora/Gopher-Sandbox/go_crash_course/strutil"
+	"github.com/maczamora/Gopher-Sandbox/util/strutil"
 )
 
 func main() {
