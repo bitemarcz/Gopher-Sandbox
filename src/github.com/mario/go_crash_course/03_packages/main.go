@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"bitbucket.com/mario/go_crash_course/strutil"
+	"github.com/mario/go_crash_course/strutil"
 )
 
 func main() {
