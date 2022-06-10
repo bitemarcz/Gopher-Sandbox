@@ -1,3 +1,3 @@
-module src/github.com/mario/go_crash_course
+module src/github.com/maczamora/Gopher-Sandbox
 
 go 1.18
