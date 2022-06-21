@@ -1,5 +1,6 @@
 go 1.18
 
-use ./go_pluralsight_intro/
+use ./go_pluralsight_part_one/
+use ./go_pluralsight_part_two
 use ./go_pluralsight
 use ./go_crash_course
