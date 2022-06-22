@@ -1,3 +1,3 @@
-module bitbucket.com/mario/go_pluralsight
+module github.com/maczamora/go_pluralsight
 
-go 1.17
+go 1.18
