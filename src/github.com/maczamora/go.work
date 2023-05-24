@@ -4,3 +4,5 @@ use ./go_pluralsight_part_one/
 use ./go_pluralsight_part_two
 use ./go_pluralsight
 use ./go_crash_course
+use ./go_datatypes
+use ./go_dev_guide
