@@ -1,5 +1,0 @@
-This is our test
-
-Where we do tests
-
-If you're reading this, it works!

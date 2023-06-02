@@ -1,6 +1,0 @@
-total 1768
-drwxr-xr-x  2 marzamor marzamor    4096 Jun 27 19:16 .
-drwxr-xr-x 10 marzamor marzamor    4096 Jun 27 16:30 ..
--rwxr-xr-x  1 marzamor marzamor 1797583 Jun 27 19:15 main
--rw-r--r--  1 marzamor marzamor    2787 Jun 27 19:15 main.go
--rw-r--r--  1 marzamor marzamor       0 Jun 27 19:16 test.txt
